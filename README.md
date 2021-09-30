@@ -10,8 +10,3 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-Sérgio%20Almeida-007bb6?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/sergioalmeidaa
-/)](www.linkedin.com/in/sergioalmeidaa
-) 
-[![Gmail Badge](https://img.shields.io/badge/-sergioalmeida00@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sergioalmeida00@gmail.com)](mailto:welton.c.lima@gmail.com)
