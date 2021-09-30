@@ -27,7 +27,7 @@
 ###  📫 Como entrar em contato comigo:
 
 <p>
-  <a href="www.linkedin.com/in/sergioalmeidaa" rel="nofollow">
+  <a href="https://www.linkedin.com/in/sergioalmeidaa" rel="nofollow">
     <img src = "https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
   <a href="mailto:sergioalmeidaa00@gmail.com">
