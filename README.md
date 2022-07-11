@@ -2,7 +2,7 @@
 ##  Olá 👋
 ##  Sou Sérgio Almeida. Bem-vindo ao meu perfil.
 <p>- Formado em Sistemas de informação.</p>
-<p>- Desenvolvedor front-end júnior.</p>
+<p>- Desenvolvedor back-end júnior.</p>
 
 <p>🔭 Linguagens:</p>
 <p>
