@@ -4,23 +4,20 @@
 <p>- Formado em Sistemas de informação.</p>
 <p>- Desenvolvedor back-end júnior.</p>
 
-<p>🔭 Linguagens:</p>
+<p>🔭 Back-end:</p>
 <p>
   
-<img height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-<img height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-<img height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,ts,sequelize,docker,aws,prisma,postgres)](https://skillicons.dev)
 
 </p>
 
 <p>🔭 Objetivos:</p>
 
 <p>
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+- Front-End
+
+[![Minhas Habilidades](https://skillicons.dev/icons?i=react,nextjs,styledcomponents,materialui)](https://skillicons.dev)
 
 </p>
 
